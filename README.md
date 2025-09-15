@@ -33,5 +33,8 @@ pip install -r requirements.txt
 
 python ticket.py
 
+* 修改监控的时间请修改`CHECK_INTERVAL_SEC`
+* 修改参观线路请修改`COMMODITY_IDS`
+
 ![result](figure.jpg)
 
