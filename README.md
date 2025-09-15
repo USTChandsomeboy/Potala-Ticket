@@ -25,10 +25,13 @@ Windows 系统请自行搜索教程
 
 注册他的会员一个月需要 8 元，与本人无关，自愿付费
 ## 4.运行
-先按照依赖库
+先安装依赖库
 
 pip install -r requirements.txt
 
 在运行程序即可
 
 python ticket.py
+
+![result](figure.jpg)
+
