@@ -10,14 +10,14 @@
 Windows 系统请自行搜索教程
 ## 2. 获取 URL 及 Token
 从你抓包的请求中，你需要获取
-* URL
 * Token
+* URL
 * Host
 * site-id
 * version
 * Referer
 
-前两个请将其填到.env文件中，后四个填到`get_headers()`函数中
+请将 Token 其填到.env文件中，URL 填到`BASE_URL`变量中，后四个填到`get_headers()`函数中
 ## 3.微信推送
 使用的是 Server 酱的微信推送服务，使用教程请看[官网](https://sct.ftqq.com/)
 
