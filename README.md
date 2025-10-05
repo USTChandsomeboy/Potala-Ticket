@@ -1,5 +1,8 @@
 # Potala-Ticket
 布达拉宫小程序余票监控
+
+## 📖 Architecture Documentation
+For a detailed analysis of the agent's architecture and main components, see [ARCHITECTURE.md](ARCHITECTURE.md).
 ## 1. 抓包
 抓包请自行使用工具去抓包小程序发送的信息，我在这里只提供一点参考，请不要做非法用途
 
